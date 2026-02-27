@@ -1,13 +1,21 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonijagdish/Local-Service-Management-System.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonijagdish/Local-Service-Management-System/issues"
+  },
+  "homepage": "https://github.com/sonijagdish/Local-Service-Management-System#readme",
   "description": "",
   "dependencies": {
     "express": "^5.2.1"
